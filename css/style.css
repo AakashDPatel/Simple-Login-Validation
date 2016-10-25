@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../images/nature-05.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:inherit;
+}
+h1{
+	text-align:center;
+}
+
+.form-horizontal{
+	margin:20px;
+	border:1px solid thin;
+	padding:20px;
+	border-radius:4px;
+}
+
+.link{
+	color:#000;
+	
+}
+
+.btn btn-primary navbar-btn{
+	position:absolute;
+}
